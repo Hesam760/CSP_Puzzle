@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
+
 public class Main {
     private static int n;
     private static ArrayList<ArrayList<Integer>> row_constraints;
